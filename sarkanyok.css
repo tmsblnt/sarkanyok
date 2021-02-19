@@ -18,5 +18,7 @@ a:hover {
     float: right;
 }
 
-body {background-image: url("hatterkep.jpg");}
+body {background-image: url("hatterkep.jpg");
+    font-family: sans-serif;
+    }
 
