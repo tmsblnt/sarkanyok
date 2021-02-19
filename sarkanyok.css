@@ -21,4 +21,5 @@ a:hover {
 body {background-image: url("hatterkep.jpg");
     font-family: sans-serif;
     }
-
+.forras {float: right;
+font-size: 10px;}
