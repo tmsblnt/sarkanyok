@@ -16,6 +16,8 @@ a:hover {
 
 .jobbrakep {
     float: right;
+    width: 300px;
+    margin: 20px;
 }
 
 body {background-image: url("hatterkep.jpg");
